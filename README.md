@@ -60,7 +60,6 @@
 - Etichette chiare nei form  
 - Contrasto colori leggibile (sfondo chiaro, testo scuro)  
 - Navigazione semplice e coerente  
-- Test di fruibilità con utenti esterni (compagni o amici)  
 
 ---
 
@@ -75,4 +74,4 @@
   - Settimana 3–4 → sviluppo HTML/CSS/JS  
   - Settimana 5 → inserimento contenuti e test  
   - Settimana 6 → revisione e consegna finale  
-- Strumenti di collaborazione: Google Drive per documenti, GitHub per codice, Notion per pianificazione  
+- Strumenti di collaborazione: Google Drive per documenti, GitHub per codice
