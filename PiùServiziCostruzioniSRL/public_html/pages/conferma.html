@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Conferma invio - Più Servizi SRL</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="logo">
+        <img src="../img/logo.png" alt="Logo Più Servizi SRL">
+      </div>
+      <nav id="navbar">
+        <ul>
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="contatti.html">Contatti</a></li>
+          <li><a href="lavora-con-noi.html">Lavora con noi</a></li>
+        </ul>
+      </nav>
+      <div class="menu-toggle" id="menu-toggle">&#9776;</div>
+    </div>
+  </header>
+
+  <section class="section fade-in">
+    <div class="container">
+      <h2 id="titolo">Dati inviati</h2>
+
+      <div id="blocco-contatti" style="display:none;">
+        <p><strong>Nome:</strong> <span id="outputNome"></span></p>
+        <p><strong>Email:</strong> <span id="outputEmail"></span></p>
+        <h3>Messaggio</h3>
+        <p id="outputMessaggio"></p>
+      </div>
+
+      <div id="blocco-lavoro" style="display:none;">
+        <p><strong>Nome e Cognome:</strong> <span id="outputNomeCognome"></span></p>
+        <p><strong>Email:</strong> <span id="outputEmailLav"></span></p>
+        <p><strong>Ruolo:</strong> <span id="outputRuolo"></span></p>
+        <h3>Presentazione</h3>
+        <p id="outputPresentazione"></p>
+      </div>
+
+      <div style="margin-top:20px;">
+        <a href="contatti.html" class="btn">Torna a Contatti</a>
+        <a href="lavora-con-noi.html" class="btn">Torna a Lavora con noi</a>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Più Servizi SRL | info@piuservizisrl.com | Tel. +39 375 530 2152</p>
+  </footer>
+
+  <script src="../js/script.js"></script>
+</body>
+</html>
