@@ -27,7 +27,7 @@
 - Chi siamo: storia dell’azienda, mission, valori, team  
 - Servizi: elenco dettagliato dei servizi edilizi (ristrutturazioni, nuove costruzioni, manutenzioni)  
 - Progetti: galleria fotografica e descrizione di lavori svolti  
-- News/Blog: articoli e aggiornamenti sul settore edilizio  
+- Lavora con noi: form di richiesta di lavoro  
 - Contatti: form di richiesta preventivo, recapiti, mappa della sede  
 
 ---
